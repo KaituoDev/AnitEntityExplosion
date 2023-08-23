@@ -1,0 +1,6 @@
+name: AntiCreeperExplosion
+version: '${project.version}'
+main: fun.kaituo.AntiEntityExplosion
+api-version: '1.20'
+authors: [MSDNicrosoft]
+description: Disable Block Explosion of Creeper and Ghast
